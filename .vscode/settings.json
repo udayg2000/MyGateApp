@@ -1,0 +1,9 @@
+{
+        "[dart]": {
+                "editor.formatOnSave": true,
+                "editor.formatOnType": false,
+                "editor.rulers": []
+        },
+        "editor.rulers": [],
+        "C_Cpp.errorSquiggles": "Disabled"
+}

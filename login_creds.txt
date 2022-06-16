@@ -1,0 +1,22 @@
+Students:
+2019csb1130@iitrpr.ac.in
+2019csb1107@iitrpr.ac.in
+2019csb1127@iitrpr.ac.in
+
+Guards:
+happy_singh@gmail.com - Main Gate
+amandeep_singh@gmail.com - Mess
+
+Authorities:
+chiefwarden@iitrpr.ac.in
+amritesh@iitrpr.ac.in
+neeraj@iitrpr.ac.in
+
+Admin:
+admin@gmail.com
+
+Default Password:
+IIT_Ropar
+
+
+

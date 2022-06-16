@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646210267861",
+    "project_id": "mygateapp-a2a4b",
+    "storage_bucket": "mygateapp-a2a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646210267861:android:1c1e8be25ad2dc67bad05c",
+        "android_client_info": {
+          "package_name": "com.dep.my_gate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646210267861-i4r7hrf9km63dts33vc3tjutuvanelgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ9ZyfYyhRCNgfwFaAwtQ7rYCVWV4NskQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646210267861-i4r7hrf9km63dts33vc3tjutuvanelgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

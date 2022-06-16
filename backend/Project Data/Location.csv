@@ -1,0 +1,7 @@
+location_name,parent_location_name,pre_approval_required,automatic_exit_required
+Main Gate,NA,Yes,No
+CS Department,Main Gate,No,No
+Mess,Main Gate,No,Yes
+Library,CS Department,No,No
+Hostel,Main Gate,No,No
+CS Lab,CS Department,No,No
